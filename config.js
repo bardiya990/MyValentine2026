@@ -14,15 +14,15 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['❤️', '❤️‍🔥', '👺', '💦', '😩'],  // Heart emojis
+        bears: ['🫦', '🐻']                       // Cute bear emojis
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me farfar?",                                    // First interaction
+            text: "Do you like me and how i care about you?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "OHHH MY FUCKINGG GAAWDD SHE FUCKING WANTS MEE IM CUMMINGG!!",  // Shows when they go past 5000%
+        high: "my cute sexy gurlfreind really likes meee😫😆",              // Shows when they go past 1000%
+        normal: "wow fari likes me😔"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "Yay! I'm the luckiest boy in the world😔😫(my girlfriend is so perfect)",
+        message: "Now wait to get your gift, a big warm hug and a huge kiss!(on both your sets of lips😏💦",
+        emojis: "😩❤️‍🔥💥👺💦"  // These will bounce around
     },
 
     // Color scheme for the website
